@@ -14,6 +14,9 @@
 
     <ItemGroup>
       <Folder Include="Customers\Command" />
+      <Folder Include="Goods\Command" />
+      <Folder Include="Orders\Command" />
+      <Folder Include="Salesmen\Command" />
     </ItemGroup>
 
 </Project>
