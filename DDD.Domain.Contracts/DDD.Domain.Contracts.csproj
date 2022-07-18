@@ -10,4 +10,8 @@
       <ProjectReference Include="..\DDD.Domain.Entities\DDD.Domain.Entities.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Common" />
+    </ItemGroup>
+
 </Project>

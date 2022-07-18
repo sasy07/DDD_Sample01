@@ -12,4 +12,8 @@
       <ProjectReference Include="..\DDD.Domain.Services\DDD.Domain.Services.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Customers\Command" />
+    </ItemGroup>
+
 </Project>
