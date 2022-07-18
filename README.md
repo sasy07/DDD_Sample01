@@ -1,6 +1,6 @@
 # DDD_Sample01
-  # 01	Intro 01 +++
-  # 02	Intro 02 (04-27 ~ 04-28) 
+  # 01	Intro +++
+  # 02	Clean Code (04-27 ~ 04-28) 
   # 03	SOLID
   # 04	Design Patterns 01
   # 05	Design Patterns 02
